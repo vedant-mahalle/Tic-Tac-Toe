@@ -1,2 +1,2 @@
-<h>Tic-Tac-Toe<h/></br>
+<h>Tic-Tac-Toe</h></br>
 AUTHOR:- Vedant Mahalle
